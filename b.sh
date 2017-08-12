@@ -54,9 +54,10 @@ make install
 #2.2.1 Add DTC to PATH
 cd $HOME
 PATH = "$HOME/bin:$HOME/.local/bin:$PATH"
-END
- chown -R $USER: $HOME
- chown -R $USER: $HOME/development/u-boot
+
+chown -R $USER: $HOME
+chown -R $USER: $HOME/development/u-boot
+
 #2.4 U-Boot Build
 cd $HOME/development/u-boot/u-boot-xlnx
 make zynq_zed_defconfig

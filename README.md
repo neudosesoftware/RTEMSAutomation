@@ -15,9 +15,9 @@ $ sudo chown -R $USER: $HOME
 
 2. Modify the PATH variable in .profile:
 
-$ cd
+  $ cd
 
-$ vim .profile
+  $ vim .profile
 
 Press 'i' on keyboard to enable the user to insert text.
 

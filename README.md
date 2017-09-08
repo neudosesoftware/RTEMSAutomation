@@ -11,13 +11,13 @@ $ sudo ./rtems.sh
 After it stops running: 
 1. Unlock the directories using the following command:
 
-$ sudo chown -R $USER: $HOME
+    $ sudo chown -R $USER: $HOME
 
 2. Modify the PATH variable in .profile:
 
-  $ cd
+    $ cd
 
-  $ vim .profile
+    $ vim .profile
 
 Press 'i' on keyboard to enable the user to insert text.
 

@@ -2,8 +2,8 @@
 
 Download the zip file, unzip all files to the home directory.
 Use the following commands to run the script:
-$ chmod 755 rtems.sh
-$ sudo ./rtems.sh
+1. $ chmod 755 rtems.sh
+2. $ sudo ./rtems.sh
 
 After it stops running: 
 1. Unlock the directories using the following command:
